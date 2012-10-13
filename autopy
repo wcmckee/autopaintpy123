@@ -1,0 +1,3 @@
+import autopy()
+
+autopy.mouse.move(40,50)
